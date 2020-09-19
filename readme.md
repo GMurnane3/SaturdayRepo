@@ -1,3 +1,3 @@
 # This is my new readme file
 
-	![Snowflake image](snowflake.png)
+	![Snowflake image](db9-1.jpg)
